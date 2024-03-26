@@ -10,7 +10,7 @@ Servo myservo1;
 int IR1 = 2;
 int IR2 = 4;
 
-int Slot = 4;        
+int Slot = 5;        
 
 int flag1 = 0;
 int flag2 = 0;
